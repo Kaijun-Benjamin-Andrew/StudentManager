@@ -1,0 +1,27 @@
+{
+  "name": "studentmanager",
+  "version": "1.0.0",
+  "description": "This is a project by three friends who are building a web app for our learning purposes. This web app is meant to serve university students to assist them to manage and excel in their university life.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaijun-Benjamin-Andrew/StudentManager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaijun-Benjamin-Andrew/StudentManager/issues"
+  },
+  "homepage": "https://github.com/Kaijun-Benjamin-Andrew/StudentManager#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "request": "^2.88.2"
+  }
+}
